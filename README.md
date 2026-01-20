@@ -17,9 +17,3 @@ World Bank API via `wbgapi`.
 - Gross_Dom_Savings
 - Gross_Cap_Formation
 
-## How to Run
-1. Open the notebook in Google Colab.
-2. Run cells in order (data fetch → cleaning → visualization → dashboard).
-
-## Output
-A 2x3 executive dashboard titled **"Guatemala Economic Snapshot"**.
